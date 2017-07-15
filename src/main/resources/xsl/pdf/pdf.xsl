@@ -4,6 +4,7 @@
 
   <xsl:import href="urn:docbkx:stylesheet" />
   <xsl:param name="paper.type">A4</xsl:param>
+  <xsl:param name="l10n.gentext.default.language">ja</xsl:param>
 
 <!--#####################################################
                  フォント設定
