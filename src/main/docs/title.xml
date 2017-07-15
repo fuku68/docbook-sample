@@ -16,5 +16,5 @@
     <pubdate><?dbtimestamp format="Y-m-d" padding="0" ?></pubdate>
   </bookinfo>
 
-
+  <xi:include href="./abstruct.xml" />
 </book>
